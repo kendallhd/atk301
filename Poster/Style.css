@@ -1,0 +1,115 @@
+body {
+background-color: black;
+  font-family: helvetica;
+}
+
+#wrapper {
+    background-image: url(paper.png);
+    width: 500px;
+    margin: auto;
+}
+
+h1 {
+  font-size: 60px;
+  margin: 2px;
+  padding: 0;
+}
+
+img {
+  margin: 0;
+  padding: 0;
+}
+
+#center {
+text-align: center;
+backgound-image: url(paper.png);
+width:500px;
+margin: auto;
+border-top: 10px solid #789497;
+border-bottom: 10px solid #789497;
+}
+
+.written {
+border-bottom: 1px solid black;
+padding: 1px;
+width: 270px;
+padding-bottom: 0px;
+margin-bottom: 0px;
+margin-top: 15px;
+margin-left: auto;
+margin-right: auto;
+color: black;
+}
+
+.joel {
+padding: 1px;
+margin: 4px;
+}
+
+.starring {
+Border-bottom: 1px solid #789497;
+width: 100px;
+padding-bottom: 0px;
+margin-bottom: 0px;
+margin-top: 15px;
+margin-left: auto;
+margin-right:auto;
+color: #789497;
+}
+
+.oscar {
+font-style: bold 60px, helvetica;
+text-align: center;
+font-weight: bold;
+line-height: 0px;
+color: #789497;
+}
+
+.carey {
+  font-style: bold 60px, helvetica;
+  text-align: center;
+  font-weight: bold;
+  line-height: 0px;
+  color: #789497;
+}
+
+.john {
+  font-style: bold 60px, helvetica;
+  text-align: center;
+  font-weight: bold;
+  line-height: 0px;
+  color: #789497;
+}
+
+.garrett {
+  font-style: bold 60px, helvetica;
+  text-align: center;
+  font-weight: bold;
+  line-height: 0px;
+  color: #789497;
+}
+
+.justin {
+  font-style: bold 60px, helvetica;
+  text-align: center;
+  font-weight: bold;
+color: #789497;
+  line-height: 0px;
+}
+
+.title{
+font-family: bold 60px; helvetica;
+  color: black
+  text-align: center;
+  font-size: 75px;
+  font-weight: bold;
+  line-height: 60px
+  padding: zero;
+  margin: 2px;
+}
+
+.inside{
+ color: #789497;
+ font-weight: bold;
+ font-style: bold 60px; helvetica;
+}
