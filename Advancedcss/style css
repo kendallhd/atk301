@@ -1,0 +1,17 @@
+<head>
+   <meta charset="UTF-8">
+   <title>Page Title</title>
+   <link href="8style2.css" rel="stylesheet" type="text/css" />
+</head>
+
+Body{
+background-image: url(8pic1.png);
+}
+
+div{
+background-color: white
+border: 2px solid black
+width:960px
+margin: auto;
+padding: 10px;
+}
